@@ -25,6 +25,10 @@
 		{
 			"Name": "Paper2D",
 			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
 		}
 	]
 }
